@@ -1,0 +1,8 @@
+,Dataset,Accuracy(%)
+0,Tic-tac-toe Endgame,69.41544885177453
+1,SPECT heart Dataset,77.54010695187165
+2,Soybean (small),93.47826086956522
+3,Shuttle landing control,92.85714285714286
+4,Monks-1,71.29629629629629
+5,Monks-2,61.57407407407407
+6,Monks-3,97.22222222222221
